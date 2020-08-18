@@ -12,7 +12,14 @@ top: 103px;
 
 background: #2487C1;
 border-radius: 0px 2px 2px 0px;
+
+animation: mymove 2s;
 }
+
+@keyframes mymove {
+    from {width: 144px;}
+    to {width: 288px;}
+  }
 
 .stepTwo {
     position: absolute;
