@@ -1,0 +1,99 @@
+.heroOne {
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    
+}
+
+.logo {
+    position: absolute;
+    top: 50px;
+    right: 1254px;
+    bottom: 765px;
+    left: 104px;
+    
+}
+
+/* .containerOne {
+    left: 104px;
+} */
+
+.welcome {
+    color: #FFCC5A;
+    position: absolute;
+    top: 245px;
+    right: 503px;
+    bottom: 483px;
+    left: 104px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 86px;
+    font-family: 'Mali';
+}
+
+.para {
+    color: #FFFFFF;
+    position: absolute;
+    top: 441px;
+    right: 666px;
+    bottom: 387px;
+    left: 104px;
+    padding-top: 20px;
+    width: 550px;
+}
+
+.steps {
+    color: #FFFFFF;
+    position: absolute;
+    width: 618px;
+    height: 30px;
+    left: 104px;
+    top: 543px;
+    padding-top: 20px;
+    font-family: "Mali";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.ten {
+    color: #FFCC5A;
+}
+
+.ui.button.yellow {
+    color: #FFCC5A;
+    position: absolute;
+    width: 240px;
+    height: 60px;
+    left: 104px;
+    top: 623px;
+}
+
+.btnText {
+    color: #040404;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 19px;
+    font-family: "Mali";
+    
+}
+
+.paraTwo {
+    position: absolute;
+    width: 742px;
+    height: 48px;
+    left: 104px;
+    top: 800px;
+    color: #FFFFFF;
+}
+
+.colorize {
+    color: #FFFFFF;  
+}
+
+.colorizeTwo {
+    color: #FFCC5A;
+}
