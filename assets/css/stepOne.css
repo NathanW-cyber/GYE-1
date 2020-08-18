@@ -182,7 +182,7 @@ color: #040404;
 }
 
 .container {
-    align-items: center;
+    align-items: auto !important;
 }
 
 .btns {
