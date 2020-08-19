@@ -1,0 +1,4 @@
+$('#standard_calendar')
+  .calendar()
+    
+  ;
