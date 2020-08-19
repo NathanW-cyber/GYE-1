@@ -87,7 +87,7 @@ animation: mymove 2s;
 }
 
 @keyframes mymove {
-    from {width: 0px;}
+    from {width: 0%;}
     to {width: 10%;}
   }
 
