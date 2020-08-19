@@ -3,7 +3,7 @@
 
 
 position: absolute;
-width: 288px;
+width: 20%;
 height: 3px;
 left: 0px;
 top: 103px;
@@ -17,8 +17,8 @@ animation: mymove 2s;
 }
 
 @keyframes mymove {
-    from {width: 144px;}
-    to {width: 288px;}
+    from {width: 10%;}
+    to {width: 20%;}
   }
 
 .stepTwo {

@@ -74,7 +74,7 @@
 
 
 position: absolute;
-width: 144px;
+width: 10%;
 height: 3px;
 left: 0px;
 top: 103px;
@@ -88,7 +88,7 @@ animation: mymove 2s;
 
 @keyframes mymove {
     from {width: 0px;}
-    to {width: 144px;}
+    to {width: 10%;}
   }
 
 .rectangleSix {
